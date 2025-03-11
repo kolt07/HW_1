@@ -34,7 +34,7 @@ std_dev = np.std(random_values)
 mS = np.median(random_values)
 mean_value = np.mean(random_values)
 
-print('-------- статистичны характеристики ХІ КВАДРАТ закону розподілу ВВ ---------')
+print('-------- статистичні характеристики ХІ КВАДРАТ закону розподілу ВВ ---------')
 print(f"математичне сподівання (медіана): {mS}")
 print(f"Математичне очікування (середня): {mean_value}")
 print(f"Дисперсія: {variance}")
